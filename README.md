@@ -1,0 +1,2 @@
+# pmailer
+Mailing tool
